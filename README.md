@@ -1,29 +1,92 @@
+# Hi, I'm İlkim Sevinç 👋
 
-<h1 align="center">Hi 🌸, I'm İlkim Sevinç</h1>
-<h3 align="center">I am a computer science engineering student at Işık University. I am eager to work in the fields of data science, artificial intelligence and database management in the future.</h3>
+### Data Scientist | Machine Learning | Optimization | Generative AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkimsevinc&label=Profile%20views&color=0e75b6&style=flat" alt="ilkimsevinc" /> </p>
+I'm a **Data Scientist at KoçDigital**, working on enterprise AI and analytics problems across **machine learning, optimization, and Generative AI**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkimsevinc" alt="ilkimsevinc" /></a> </p>
+My work focuses on turning real-world business problems into analytical and intelligent decision-support systems — from predictive modeling and model explainability to scheduling optimization and LLM-based applications.
 
-- 🌱 I’m currently learning **Microsoft Power Platform and SQL Server**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ilkimsevinc](https://github.com/ilkimsevinc)
+## 🔬 What I Work On
 
-- 🌼 All of my certificates are available at [https://www.linkedin.com/in/ilkimsevinc/](https://www.linkedin.com/in/ilkimsevinc/)
+- 🤖 **Machine Learning** — classification, tabular ML, feature engineering, imbalanced learning
+- 📊 **Model Evaluation** — ROC-AUC, PR-AUC, calibration, threshold optimization, time-based validation
+- 🔍 **Explainable AI** — SHAP, feature importance, model interpretation
+- ⚙️ **Optimization** — workforce planning, scheduling, constraint-based optimization
+- 🧠 **Generative AI** — LLM applications, RAG, AI assistants, agentic workflows
+- 📈 **Data Science** — EDA, preprocessing, experimentation and analytical decision support
 
-- 📝 I will start writing articles on [[https://medium.com/@ilkimsevinc]](https://medium.com/@ilkimsevinc)
+---
 
-- 📫 How to reach me **ilkimsevinc@hotmail.com**
+## 🧰 Tech Stack
 
-- 🌻 Have fun browsing my profile and reviewing my projects !
+**Languages & Data**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ilkimsevinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilkimsevinc" height="30" width="40" /></a>
-<a href="https://kaggle.com/ilkimsevinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ilkimsevinc" height="30" width="40" /></a>
-<a href="https://medium.com/@ilkimsevinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ilkimsevinc" height="30" width="40" /></a>
-</p>
+Python • SQL • T-SQL • MySQL • Microsoft SQL Server
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+**Machine Learning**
+
+LightGBM • Scikit-learn • SHAP • Pandas • NumPy • SciPy
+
+**Generative AI**
+
+LLMs • RAG • Prompt Engineering • Agentic Systems • NLP
+
+**Optimization**
+
+Scheduling Optimization • Workforce Optimization • Mathematical Optimization • Heuristic Algorithms
+
+**Visualization**
+
+Power BI • Matplotlib • Excel
+
+**Cloud & Development**
+
+AWS • Microsoft Azure • Git • GitHub • VS Code • Jupyter • Google Colab
+
+---
+
+## 🚀 Selected Projects
+
+### 🔮 Employee Churn Prediction
+End-to-end machine learning pipeline for employee churn prediction with temporal validation, class imbalance handling, model calibration, threshold analysis and SHAP-based explainability.
+
+`LightGBM` `SHAP` `Scikit-learn` `Calibration` `Time-Series Validation`
+
+### ⚙️ Workforce Scheduling Optimizer
+Constraint-based workforce planning system for assigning employees to shifts and stations while considering availability, skills and operational requirements.
+
+`Optimization` `Scheduling` `Python` `Constraint Programming`
+
+### 🧠 Agentic Decision Support System
+LLM-based decision-support architecture combining structured data retrieval, domain tools, analytical calculations and optimization workflows.
+
+`LLM` `RAG` `Agents` `Tool Calling` `Optimization`
+
+### 📊 Applied Machine Learning Experiments
+Practical ML projects exploring model evaluation, feature engineering, explainability, calibration and robust validation strategies.
+
+`Machine Learning` `Data Science` `Explainability`
+
+---
+
+## ☁️ Certifications
+
+- **AWS Certified Cloud Practitioner**
+- Microsoft Azure Data Fundamentals
+- Microsoft Azure Fundamentals
+- Data Engineering on Microsoft Azure
+- Administering Microsoft Azure SQL Solutions
+
+---
+
+## 🌍 Currently Interested In
+
+Applied Machine Learning • Optimization • Intelligent Decision Systems • Agentic AI • Explainable AI
+
+---
+
+### 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/ilkimsevinc/) • [GitHub](https://github.com/ilkimsevinc)
